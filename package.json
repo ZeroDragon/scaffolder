@@ -48,6 +48,13 @@
     "standard": "^10.0.3"
   },
   "standard": {
-    "globals": ["config", "logger", "any", "describe", "it", "expect"]
+    "globals": [
+      "config",
+      "logger",
+      "any",
+      "describe",
+      "it",
+      "expect"
+    ]
   }
 }
